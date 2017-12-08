@@ -42,10 +42,10 @@ If you want to break into cutting-edge AI, this course will help you do so. Deep
 
 
 **Programming assignments:**
-
 * Week 2: Logistic regression with a neural network mindset [[ipynb](Course_1/Week2/Week_2_Logistic+Regression+with+a+Neural+Network+mindset.ipynb)]
 * Week 3: Planar data classification with one hidden layer [[ipynb](Course_1/Week3/Week_3_Planar+data+classification+with+one+hidden+layer.ipynb)]
 * Week 4: Building your deep neural network step by step [[ipynb](Course_1/Week4_1/Week_4_1_Building+your+Deep+Neural+Network+-+Step+by+Step.ipynb)], Application [[ipynb](Course_1/Week4_2/Week_4_2_Deep+Neural+Network+-+Application.ipynb)]
+
 ----------------------
 
 ## About Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
@@ -54,7 +54,7 @@ If you want to break into cutting-edge AI, this course will help you do so. Deep
 
 This course will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. You will also learn TensorFlow. 
 
-** Learning Outcomes:** 
+**Learning Outcomes:**
 * Understand industry best-practices for building deep learning applications. 
 * Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking.
 * Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence. 
@@ -68,6 +68,7 @@ This course will teach you the "magic" of getting deep learning to work well. Ra
 * Week 3: Tensorflow tutorial [[ipynb](Course_2/Week3/Week_3_Tensorflow+Tutorial.ipynb)]
 
 --------------
+
 ## About Course 3: Structuring Machine Learning Projects
 * 2 weeks of study, 3-4 hours/week
 
@@ -75,19 +76,20 @@ You will learn how to build a successful machine learning project. If you aspire
 
 Much of this content has never been taught elsewhere, and is drawn from my experience building and shipping many deep learning products. This course also has two "flight simulators" that let you practice decision-making as a machine learning project leader. This provides "industry experience" that you might otherwise get only after years of ML work experience.
 
-** Learning Outcomes:**  
+**Learning Outcomes:**
 * Understand how to diagnose errors in a machine learning system, and 
 * Be able to prioritize the most promising directions for reducing error
 * Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
 * Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
 ------------------
+
 ## About Course 4: Convolutional Neural Networks
 * 4 weeks of study, 4-5 hours/week
 
 This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images. 
 
-** Learning Outcomes:** 
+**Learning Outcomes:**
 * Understand how to build a convolutional neural network, including recent variations such as residual networks.
 * Know how to apply convolutional networks to visual detection and recognition tasks.
 * Know to use neural style transfer to generate art.
@@ -105,7 +107,7 @@ This course will teach you how to build convolutional neural networks and apply 
 
 This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others. 
 
-** Learning Outcomes:** 
+**Learning Outcomes:**
 * Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
 * Be able to apply sequence models to natural language problems, including text synthesis. 
 * Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
