@@ -22,8 +22,8 @@ You will also hear from many top leaders in Deep Learning, who will share with y
 **Programming tools:** Python, Tensorflow, Keras, Numpy, Matplotlib
 
 
-**Verified certifiate:**
-Coming soon
+**Verified certifiate:**[Check the online version here](https://www.coursera.org/account/accomplishments/specialization/certificate/W4QZ9YTC5ZJQ)
+<img src="certificate.png" width="600">
 
 ---------------------------
 
@@ -103,7 +103,7 @@ This course will teach you how to build convolutional neural networks and apply 
 
 ------------------------
 ## About Course 5: Sequence Models
-* Coming soon
+* 3 weeks of study, 4-6 hours/week
 
 This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this is enabling numerous exciting applications in speech recognition, music synthesis, chatbots, machine translation, natural language understanding, and many others. 
 
@@ -111,6 +111,11 @@ This course will teach you how to build models for natural language, audio, and 
 * Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
 * Be able to apply sequence models to natural language problems, including text synthesis. 
 * Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+
+**Programming assignments:**
+* Week 1: Building a recurrent neural network - step by step [[ipynb](Course_5/Week1_1/BuildingRecurrentNeuralNetworkStepbyStepv3.ipynb.ipynb)], Character-Level Language Modeling [[ipynb](Course_5/Week1_2/DinosaurusIslandCharacterlevellanguagemodel.ipynb)], Jazz improvisation with LSTM[[ipynb](Course_5/Week1_3/ImproviseaJazzSolowithanLSTMNetwork.ipynb)]
+* Week 2: Operations on word vectors - Debiasing [[ipynb](Course_5/Week2_1/Operationsonwordvectors.ipynb)], Emojify [[ipynb](Course_5/Week2_2/Emojify.ipynb)]
+* Week 3: Neural Machine Translation with Attention [[ipynb](Course_5/Week3_1/Neuralmachinetranslationwithattention.ipynb)], Trigger word detection [[ipynb](Course_5/Week3_2/Triggerworddetection.ipynb)]
 
 
 
